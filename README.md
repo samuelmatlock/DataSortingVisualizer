@@ -1,1 +1,2 @@
-Description
+# Data Sorting Algorithms Visualizer
+*Description*
